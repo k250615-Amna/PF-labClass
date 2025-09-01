@@ -2,7 +2,7 @@
 ## GitHub
 *MD files contain description* \
 **GitHub contains repo**  \
-***Github is a web and cloud based platform*** \
+***Github is a web and cloud based platform*** 
 ### Main Concepts
 * Branch
 * Pull Request
@@ -12,12 +12,12 @@
 1. Git status
 2. Git add
 3. Git commit
-4. Pudh
+4. Push
 5. Pull\
-~~Mistake~~\
+~~Mistake~~
 - [x] complete
 - [ ] not done html
-- [x] done js \
+- [x] done js 
 
 
-![cat image](https://theconversation.com/do-cats-have-friends-or-do-they-always-vie-for-territory-animal-experts-weigh-in-249013)  
+![cat image](https://images.squarespace-cdn.com/content/v1/607f89e638219e13eee71b1e/1684821560422-SD5V37BAG28BURTLIXUQ/michael-sum-LEpfefQf4rU-unsplash.jpg)  
